@@ -15,8 +15,8 @@ Click on any cell to enter or modify data.
 🎨 Cell Formatting :-
 Apply styles like bold, italic, underline, text alignment, font size, and background color.
 
-✂️Cut, Copy & Past :- 
-Apply Cut, Copy Past by selecting the Multiple cells.
+✂️Cut, Copy & Paste :- 
+Apply Cut, Copy Paste by selecting the Multiple cells.
 
 📂 Multiple Sheets :-
 Add, rename, and delete sheets in the same workbook.
