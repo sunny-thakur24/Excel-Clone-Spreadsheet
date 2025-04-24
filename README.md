@@ -6,8 +6,8 @@ This project is a simple yet powerful Excel Clone — a web-based spreadsheet ap
 
 ## 🚀 Features
 
-🧾 Dynamic Spreadsheet Grid :-
-Create a flexible, scrollable grid with rows and columns — just like traditional spreadsheets.
+🧾 Spreadsheet Grid :-
+Create a flexible, scrollable grid with rows and columns.
 
 ✍️ Cell Editing :-
 Click on any cell to enter or modify data.
